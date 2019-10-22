@@ -20,11 +20,13 @@ public class ModBlocks
 	 * Overworld Blocks
 	 */
 	public static final Block GENERIC_STONE = new BlockBase("generic_stone", Material.GROUND );
+	public static final Block ALTER_PILLER = new BlockBase("alter_piller", Material.ROCK);
 	
 	/**
 	 * Fragments
 	 */
 	public static final Block POWER_FRAG_ORE = new FragOre("power_frag_ore", Material.ROCK, "power", 3, 1);
+	public static final Block LIFE_FRAG_ORE = new FragOre("life_frag_ore", Material.ROCK, "life", 2, 1);
 	
 	
 	/**

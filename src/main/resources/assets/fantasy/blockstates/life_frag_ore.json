@@ -1,0 +1,10 @@
+{
+    "defaults": { 
+        "model": "fantasy:life_frag_ore" 
+    },
+    "variants": {
+        "normal" : {
+                "model": "fantasy:life_frag_ore" 
+        }
+    }
+}
