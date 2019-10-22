@@ -25,6 +25,7 @@ public class ModBlocks
 	 * Fragments
 	 */
 	public static final Block POWER_FRAG_ORE = new FragOre("power_frag_ore", Material.ROCK, "power", 3, 1);
+	public static final Block LIFE_FRAG_ORE = new FragOre("life_frag_ore", Material.ROCK, "life", 2, 1);
 	
 	
 	/**
