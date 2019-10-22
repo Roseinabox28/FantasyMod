@@ -25,7 +25,7 @@ public class ModItems {
 	public static final Item FIRE_STAFF = new FireStaff("fire_staff", ToolMaterial.WOOD);
 	
 	public static final Item POWER = new Fragment("power",CreativeTabs.MATERIALS, "power");
-	
+	public static final Item LIFE = new Fragment("life",CreativeTabs.MATERIALS, "life");
 	
 	
 	
