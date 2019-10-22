@@ -6,9 +6,16 @@ tile.generic_stone.name=Generic Stone Block
 tile.eldritch_stone.name=Eldritch Stone Block
 tile.wasteland_portal.name=Wasteland Portal Block
 
+//Ores
+tile.power_frag_ore.name=Power Fragment Ore
+tile.life_frag_ore.name=Life Fragment Ore
+
 //Items
 item.fire_scroll.name=Fire Scroll
 item.crystal.name=Crystal
+//Materials
+item.power.name=Power Fragment
+item.life.name=Life Fragment
 
 //Fluids
 fluid.ether=Ether
