@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "all": "fantasy:blocks/life_frag_ore",
+        "particle": "blocks/lapis_block"
+    }
+}
