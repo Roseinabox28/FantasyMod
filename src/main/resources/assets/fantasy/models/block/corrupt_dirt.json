@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "fantasy:blocks/corrupt_dirt",
+        "up": "fantasy:blocks/corrupt_dirt",
+        "north": "fantasy:blocks/corrupt_dirt",
+        "east": "fantasy:blocks/corrupt_dirt",
+        "south": "fantasy:blocks/corrupt_dirt",
+        "west": "fantasy:blocks/corrupt_dirt",
+        "particle": "blocks/lapis_block"
+    }
+}

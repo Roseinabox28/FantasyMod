@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "fantasy:blocks/generic_stone",
+        "up": "fantasy:blocks/generic_stone",
+        "north": "fantasy:blocks/generic_stone",
+        "east": "fantasy:blocks/generic_stone",
+        "south": "fantasy:blocks/generic_stone",
+        "west": "fantasy:blocks/generic_stone",
+        "particle": "blocks/lapis_block"
+    }
+}

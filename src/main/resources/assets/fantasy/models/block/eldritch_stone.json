@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "fantasy:blocks/eldritch_stone",
+        "up": "fantasy:blocks/eldritch_stone",
+        "north": "fantasy:blocks/eldritch_stone",
+        "east": "fantasy:blocks/eldritch_stone",
+        "south": "fantasy:blocks/eldritch_stone",
+        "west": "fantasy:blocks/eldritch_stone",
+        "particle": "blocks/lapis_block"
+    }
+}

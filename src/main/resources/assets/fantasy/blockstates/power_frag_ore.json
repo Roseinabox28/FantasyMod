@@ -1,0 +1,10 @@
+{
+    "defaults": { 
+        "model": "fantasy:power_frag_ore" 
+    },
+    "variants": {
+        "normal" : {
+                "model": "fantasy:power_frag_ore" 
+        }
+    }
+}

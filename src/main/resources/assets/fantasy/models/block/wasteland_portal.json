@@ -1,0 +1,22 @@
+{
+   
+    "textures": {
+        
+        "particle": "blocks/portal",
+        "portal": "fantasy:blocks/wasteland_portal"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" },
+                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" },
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" },
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#portal" }
+            }
+        }
+    ]
+}
+

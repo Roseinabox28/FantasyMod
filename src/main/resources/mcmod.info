@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fm",
+  "name": "Fantasy Mod",
+  "description": "Fantasy mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Roseinabox"],
+  "credits": "YEET",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

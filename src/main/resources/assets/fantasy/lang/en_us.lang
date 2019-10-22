@@ -1,0 +1,14 @@
+//CreativeTabs
+itemGroup.fantasytab=Fantasy
+
+//Blocks
+tile.generic_stone.name=Generic Stone Block
+tile.eldritch_stone.name=Eldritch Stone Block
+tile.wasteland_portal.name=Wasteland Portal Block
+
+//Items
+item.fire_scroll.name=Fire Scroll
+item.crystal.name=Crystal
+
+//Fluids
+fluid.ether=Ether
