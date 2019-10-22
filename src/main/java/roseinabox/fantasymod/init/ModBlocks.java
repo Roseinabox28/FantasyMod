@@ -20,6 +20,7 @@ public class ModBlocks
 	 * Overworld Blocks
 	 */
 	public static final Block GENERIC_STONE = new BlockBase("generic_stone", Material.GROUND );
+	public static final Block ALTER_PILLER = new BlockBase("alter_piller", Material.ROCK);
 	
 	/**
 	 * Fragments
